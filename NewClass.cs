@@ -8,5 +8,9 @@ namespace test
 {
     internal class NewClass
     {
+        static void MyMethod()
+        {
+            
+        }
     }
 }
